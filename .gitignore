@@ -1,0 +1,6 @@
+*.exe
+*.pdb
+debug
+target
+*.lock
+*.toml
